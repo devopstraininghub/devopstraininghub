@@ -38,6 +38,6 @@
 
 💬 **whatapp Community:** [Join Here](https://chat.whatsapp.com/IIn9SThrmdHEJ8KjUmPuWD)  
 
-📧 **Email**: devopstraininghub 
+📧 **Email**: devopstraininghub@gmail.com
 
 💬 _"Teaching is not just about sharing knowledge — it's about inspiring curiosity and building confidence."_  
