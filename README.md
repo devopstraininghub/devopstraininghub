@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Madhu Kiran  – DevOps Trainer & Mentor  
+# 👋 Hi, I’m Madhu Kiran  – Cloud & DevOps Trainer & Mentor  
 
 🎯 **Helping professionals & students master DevOps tools, cloud technologies, and industry best practices**  
 
