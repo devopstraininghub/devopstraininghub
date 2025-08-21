@@ -50,9 +50,9 @@
 devopstraininghub@gmail.com
 
 
-![Quote](https://img.shields.io/badge/💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.-27AE60?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=145A32)
-![Quote](https://img.shields.io/badge/💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.-9B59B6?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=4A235A)
-![Quote](https://img.shields.io/badge/💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.-E74C3C?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=641E16)
+![Quote](https://img.shields.io/badge/💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.-F39C12?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=7E5109)
+![Quote](https://img.shields.io/badge/💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.-F1C40F?style=for-the-badge&logo=sparkles&logoColor=black&labelColor=7D6608)
+
 
 
 
