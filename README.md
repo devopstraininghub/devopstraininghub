@@ -50,6 +50,7 @@
 devopstraininghub@gmail.com
 
 
-![Quote](https://img.shields.io/badge/💬%20Teaching%20inspires%20curiosity%20✨%20and%20builds%20confidence%20🌱-28a745?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=006400)
+💬 <span style="color:#2ECC71">_"Teaching is not just about sharing knowledge — it's about inspiring curiosity and building confidence."_</span>
+
 
 
