@@ -15,7 +15,10 @@
 - 🎓 Trained **1000+ learners** across corporate batches, colleges, and online platforms.  
 - 🌱 Believe in **hands-on learning** with real-time projects and industry scenarios.  
 
-## 🚀 Skills & Tools  
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=🚀%20Skills%20%26%20Tools&width=800&height=120" alt="Skills & Tools"/>
+</p>
+
 
 | Category        | Technologies / Tools |
 |-----------------|----------------------|
