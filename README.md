@@ -3,7 +3,7 @@
 ![DevOps](https://img.shields.io/badge/Cloud%20&%20DevOps%20Trainer%20&%20Mentor%20🚀-8E2DE2?style=for-the-badge&logoColor=white&labelColor=4A00E0)
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20Welcome%20To%20DevopsTrainingHub&width=800&height=100" alt="Adarsh"/>
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20Welcome%20To%20DevopsTrainingHub&width=800&height=60" alt="Adarsh"/>
 </p>
 
 🎯 **Helping professionals & students master DevOps tools, cloud technologies, and industry best practices**  
