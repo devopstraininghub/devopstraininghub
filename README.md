@@ -15,7 +15,7 @@
 - 🎓 Trained **1000+ learners** across corporate batches, colleges, and online platforms.  
 - 🌱 Believe in **hands-on learning** with real-time projects and industry scenarios.  
 
-![Ansible](https://img.shields.io/badge/Skills&Tools-EE0000?)
+![Adarsh](https://img.shields.io/badge/Skills%20&%20Tools-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
 
 | Category        | Technologies / Tools |
 |-----------------|----------------------|
@@ -27,7 +27,7 @@
 | **Version Control** | Git, GitHub, GitLab |
 | **OS & Monitoring** | Linux, Prometheus, Grafana |
 
-## 📢 What I Offer  
+![DevOps](https://img.shields.io/badge/What%20&%20I%20Offer%20🚀-8E2DE2?style=for-the-badge&logoColor=white&labelColor=4A00E0)
 - **Corporate Training** – Custom DevOps workshops for teams.  
 - **1:1 Mentoring** – Personalized guidance for career switchers and freshers.  
 - **Project-Based Learning** – Real-time industry projects from scratch.  
