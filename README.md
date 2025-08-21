@@ -50,7 +50,7 @@
 devopstraininghub@gmail.com
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.&width=900&height=120&colors=ff0000,ff7f00,ffff00,00ff00,0000ff,4b0082,8f00ff" alt="Teaching Quote"/>
+  <img src="https://svg-banners.vercel.app/api?type=snake&text1=💬%20Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence.&width=900&height=120&colors=ff0000,ff7f00,ffff00,00ff00,0000ff,4b0082,8f00ff" alt="Teaching Quote"/>
 </p>
 
 
