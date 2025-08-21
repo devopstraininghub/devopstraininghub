@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Madhu Kiran  – Cloud & DevOps Trainer & Mentor  
+/# 👋 Hi, I’m Madhu Kiran  – Cloud & DevOps Trainer & Mentor  
 ![Hey](https://img.shields.io/badge/👋%20Hii-FFDD00?style=for-the-badge&logoColor=white&labelColor=FF7E5F)
 ![Adarsh](https://img.shields.io/badge/I'm%20Madhu%20Kiran-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
 ![DevOps](https://img.shields.io/badge/Cloud%20&%20DevOps%20Trainer%20&%20Mentor%20🚀-8E2DE2?style=for-the-badge&logoColor=white&labelColor=4A00E0)
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=👋%20Hey%20welcome%20to%20DevopsTrainingHub&width=800&height=120" alt="Adarsh"/>
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20welcome%20to%20DevopsTrainingHub&width=800&height=120" alt="Adarsh"/>
 </p>
 
 🎯 **Helping professionals & students master DevOps tools, cloud technologies, and industry best practices**  
@@ -37,7 +37,8 @@
 
 ## 📬 Connect With Me  
 
-📝 **Youtube:** [@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+ **Youtube:** [@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
 
 💼 **LinkedIn:** [madhukiran-gorekar](http://www.linkedin.com/in/madhukiran-gorekar) 
 
