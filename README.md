@@ -15,7 +15,7 @@
 - 🎓 Trained **1000+ learners** across corporate batches, colleges, and online platforms.  
 - 🌱 Believe in **hands-on learning** with real-time projects and industry scenarios.  
 
-![Adarsh](https://img.shields.io/badge/Skills%20&%20Tools-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
+![Adarsh](https://img.shields.io/badge/🚀%20Skills%20&%20Tools-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
 
 | Category        | Technologies / Tools |
 |-----------------|----------------------|
@@ -27,7 +27,7 @@
 | **Version Control** | Git, GitHub, GitLab |
 | **OS & Monitoring** | Linux, Prometheus, Grafana |
 
-![DevOps](https://img.shields.io/badge/What%20&%20I%20Offer%20🚀-8E2DE2?style=for-the-badge&logoColor=white&labelColor=4A00E0)
+![DevOps](https://img.shields.io/badge/📢%20What%20I%20Offer-8E2DE2?style=for-the-badge&logoColor=white&labelColor=4A00E0)
 - **Corporate Training** – Custom DevOps workshops for teams.  
 - **1:1 Mentoring** – Personalized guidance for career switchers and freshers.  
 - **Project-Based Learning** – Real-time industry projects from scratch.  
@@ -36,9 +36,9 @@
 
 ## 📬 Connect With Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)[@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)                    [@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)[madhukiran-gorekar](http://www.linkedin.com/in/madhukiran-gorekar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)          [madhukiran-gorekar](http://www.linkedin.com/in/madhukiran-gorekar) 
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 [mindcircuit.in](https://mindcircuit.in/) 
@@ -50,3 +50,11 @@
 devopstraininghub@gmail.com
 
 💬 _"Teaching is not just about sharing knowledge — it's about inspiring curiosity and building confidence."_  
+
+![Quote](https://img.shields.io/badge/💬%20"Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence."-ff7eb3?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=8e44ad)
+
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=💬%20Teaching%20inspires%20curiosity%20%26%20confidence&width=900&height=120" alt="Teaching Quote"/>
+</p>
+
