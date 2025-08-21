@@ -15,7 +15,7 @@
 - 🎓 Trained **1000+ learners** across corporate batches, colleges, and online platforms.  
 - 🌱 Believe in **hands-on learning** with real-time projects and industry scenarios.  
 
-![Ansible](https://img.shields.io/badge/Skills&Tools-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Skills&Tools-EE0000?)
 
 | Category        | Technologies / Tools |
 |-----------------|----------------------|
