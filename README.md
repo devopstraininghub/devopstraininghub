@@ -36,12 +36,12 @@
 
 ## 📬 Connect With Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)                    [@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)                   [@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)          [madhukiran-gorekar](http://www.linkedin.com/in/madhukiran-gorekar) 
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-[mindcircuit.in](https://mindcircuit.in/) 
+     [mindcircuit.in](https://mindcircuit.in/) 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
 [Join Here](https://chat.whatsapp.com/IIn9SThrmdHEJ8KjUmPuWD)  
@@ -49,12 +49,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 devopstraininghub@gmail.com
 
-💬 _"Teaching is not just about sharing knowledge — it's about inspiring curiosity and building confidence."_  
 
-![Quote](https://img.shields.io/badge/💬%20"Teaching%20is%20not%20just%20about%20sharing%20knowledge%20—%20it's%20about%20inspiring%20curiosity%20and%20building%20confidence."-ff7eb3?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=8e44ad)
+![Quote](https://img.shields.io/badge/💬%20Teaching%20inspires%20curiosity%20✨%20and%20builds%20confidence%20🌱-28a745?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=006400)
 
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=💬%20Teaching%20inspires%20curiosity%20%26%20confidence&width=900&height=120" alt="Teaching Quote"/>
-</p>
 
