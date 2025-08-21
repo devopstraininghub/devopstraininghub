@@ -1,4 +1,3 @@
-/# 👋 Hi, I’m Madhu Kiran  – Cloud & DevOps Trainer & Mentor  
 ![Hey](https://img.shields.io/badge/👋%20Hii-FFDD00?style=for-the-badge&logoColor=white&labelColor=FF7E5F)
 ![Adarsh](https://img.shields.io/badge/I'm%20Madhu%20Kiran-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
 ![DevOps](https://img.shields.io/badge/Cloud%20&%20DevOps%20Trainer%20&%20Mentor%20🚀-8E2DE2?style=for-the-badge&logoColor=white&labelColor=4A00E0)
@@ -37,15 +36,17 @@
 
 ## 📬 Connect With Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
- **Youtube:** [@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)[@madhukiran_mindcircuit](http://www.youtube.com/@madhukiran_mindcircuit)  
 
-💼 **LinkedIn:** [madhukiran-gorekar](http://www.linkedin.com/in/madhukiran-gorekar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)[madhukiran-gorekar](http://www.linkedin.com/in/madhukiran-gorekar) 
 
-🌐 **website:** [mindcircuit.in](https://mindcircuit.in/) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[mindcircuit.in](https://mindcircuit.in/) 
 
-💬 **whatapp Community:** [Join Here](https://chat.whatsapp.com/IIn9SThrmdHEJ8KjUmPuWD)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
+[Join Here](https://chat.whatsapp.com/IIn9SThrmdHEJ8KjUmPuWD)  
 
-📧 **Email**: devopstraininghub@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+devopstraininghub@gmail.com
 
 💬 _"Teaching is not just about sharing knowledge — it's about inspiring curiosity and building confidence."_  
