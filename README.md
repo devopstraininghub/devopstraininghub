@@ -7,6 +7,7 @@
 🎯 **Helping professionals & students master DevOps tools, cloud technologies, and industry best practices**  
 
 ## ![Hey](https://img.shields.io/badge/🧑‍🏫%20About%20Me-FFDD00?style=for-the-badge&logoColor=white&labelColor=FF7E5F)
+![Adarsh](https://img.shields.io/badge/🧑‍🏫%20About%20Me-00C9FF?style=for-the-badge&logoColor=white&labelColor=92FE9D)
 - 📚 **DevOps Trainer** with **9+ years of teaching experience** in IT & software development.  
 - 🛠️ Expert in **CI/CD, AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Ansible, Linux** and more.  
 - 💡 Passionate about simplifying complex concepts and making learning engaging & practical.  
